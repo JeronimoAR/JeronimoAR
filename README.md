@@ -1,7 +1,9 @@
 # ¡Hola! 👋 Soy Jerónimo Airas
 
 ## Sobre mí
-Programador FULL STACK, con conocimiento práctico en lenguajes de programación y capacidad de entender nuevas tecnologías rapidamente. Tengo experiencia en las siguientes tecnologías:
+Programador FULL STACK, con conocimiento práctico en lenguajes de programación y capacidad de entender nuevas tecnologías rapidamente.
+
+Tengo experiencia en las siguientes tecnologías:
 
 - HTML, CSS y JavaScript
 - Java y Spring Framework
