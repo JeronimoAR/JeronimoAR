@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Jerónimo Airas
+# ¡Hola! 👋 Soy Jerónimo Arias
 
 ## Sobre mí
 Programador FULL STACK, con conocimiento práctico en lenguajes de programación y capacidad de entender nuevas tecnologías rapidamente.
